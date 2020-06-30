@@ -52,5 +52,5 @@ The ui.R and server.R are the code for the shiny application: https://victor-lac
 
 Application Details:
 * The shiny application is deployed on ShinyApps.io server at: https://victor-lacerda.shinyapps.io/Shiny/
-* The RStudio presentation slides is published to RPubs at: 
+* The RStudio presentation slides is published to RPubs at: https://rpubs.com/kevinn_12/634037
 * Git repository at: https://github.com/kevinn-12/Shinny-App
